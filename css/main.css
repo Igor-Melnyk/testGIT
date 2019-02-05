@@ -12,3 +12,7 @@ h1 {
 p {
 	font-size: 16px;
 }
+.lorem-text {
+	border: 1px solid #0e0e0e;
+	font-weight: bold;
+}
