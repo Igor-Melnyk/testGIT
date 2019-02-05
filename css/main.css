@@ -1,0 +1,11 @@
+body {
+	max-width: 1024px;
+	min-width: 480px;
+	margin: 0 auto;
+}
+h1, h2 {
+	text-transform: uppercase;
+}
+h1 {
+	text-align: center;
+}
