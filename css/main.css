@@ -14,7 +14,7 @@ p {
 }
 .lorem-text {
 	padding: 15px;
-	border: 1px solid #0e0e0e;
+	background-color: #fcd689;
 	font-weight: bold;
 	box-shadow: 0 0 20px #000;
 }
